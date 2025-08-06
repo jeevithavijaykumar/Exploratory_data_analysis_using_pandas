@@ -1,9 +1,9 @@
 # Exploratory Data Analysis Using Python
 
-This repository contains a collection of Python projects performing end-to-end exploratory data analysis (EDA) on various datasets. 
-Projects focus on uncovering patterns, detecting anomalies, testing hypotheses, and validating assumptions to extract actionable insights.
+This repository showcases a collection of end-to-end exploratory data analysis (EDA) projects using Python. 
+Each project involves cleaning, analyzing, visualizing, and interpreting datasets to extract meaningful patterns, detect anomalies, test hypotheses, and generate actionable business insights.
 
-## Project Overview
+## Project Goals
 
 The projects involve:
 
@@ -23,7 +23,11 @@ The projects involve:
 - Matplotlib & Seaborn (for data visualization)  
 - SciPy (for statistical analysis and hypothesis testing)
 
+Each notebook includes step-by-step analysis with narrative explanations, visualizations, and a final summary of insights.
+
 ## Author
 
 **Jeevitha Vijayakumar**  
 [LinkedIn Profile](https://www.linkedin.com/in/jeevitha-vijayakumar/)
+[GitHub](https://github.com/jeevithavijaykumar)
+
