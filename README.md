@@ -5,15 +5,15 @@ Each project involves cleaning, analyzing, visualizing, and interpreting dataset
 
 ## Project Goals
 
-The projects involve:
+The projects are designed to:
 
-- Importing and cleaning datasets to prepare for analysis  
-- Performing statistical summaries and descriptive statistics  
-- Visualizing data distributions and relationships  
-- Identifying outliers, missing values, and data quality issues  
-- Conducting hypothesis testing
-- Generating meaningful insights to support data-driven decision-making  
-- Summarizing key business insights and findings
+- Import and clean real-world datasets for analysis  
+- Perform statistical summaries and descriptive analytics  
+- Visualize distributions, trends, and relationships using plots  
+- Detect and handle outliers, missing values, and data quality issues  
+- Conduct hypothesis testing   
+- Generate insights to support data-driven decision-making  
+- Summarize key findings and business implications
 
 ## Technologies and Tools
 
@@ -23,11 +23,15 @@ The projects involve:
 - Matplotlib & Seaborn (for data visualization)  
 - SciPy (for statistical analysis and hypothesis testing)
 
-Each notebook includes step-by-step analysis with narrative explanations, visualizations, and a final summary of insights.
+Each notebook includes step-by-step analysis with explanations, visualizations, and a final summary of insights for each dataset.
+
+----- 
 
 ## Author
 
 **Jeevitha Vijayakumar**  
 [LinkedIn Profile](https://www.linkedin.com/in/jeevitha-vijayakumar/)
 [GitHub](https://github.com/jeevithavijaykumar)
+
+-----
 
