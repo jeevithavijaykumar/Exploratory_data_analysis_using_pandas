@@ -25,5 +25,5 @@ The projects involve:
 
 ## Author
 
-**Jeevitha Vijaykumar**  
+**Jeevitha Vijayakumar**  
 [LinkedIn Profile](https://www.linkedin.com/in/jeevitha-vijayakumar/)
