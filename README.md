@@ -31,7 +31,6 @@ Each notebook includes step-by-step analysis with explanations, visualizations, 
 
 **Jeevitha Vijayakumar**  
 [LinkedIn Profile](https://www.linkedin.com/in/jeevitha-vijayakumar/)
-[GitHub](https://github.com/jeevithavijaykumar)
 
 -----
 
