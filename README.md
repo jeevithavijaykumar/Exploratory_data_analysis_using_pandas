@@ -3,6 +3,7 @@
 This repository showcases a collection of end-to-end exploratory data analysis (EDA) projects. 
 Each project involves cleaning, analyzing, visualizing, and interpreting datasets to extract patterns, detect anomalies, test hypotheses, and generate actionable insights.
 
+
 ## Project Goals
 
 The projects are designed to:
