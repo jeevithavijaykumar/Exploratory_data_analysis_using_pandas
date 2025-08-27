@@ -24,6 +24,7 @@ The projects are designed to:
 - Matplotlib & Seaborn (for data visualization)  
 - SciPy (for statistical analysis and hypothesis testing)
 
+
 Each notebook includes step-by-step analysis with explanations, visualizations, and a final summary of insights for each dataset.
 
 
