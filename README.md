@@ -1,7 +1,7 @@
 # Exploratory Data Analysis Using Python
 
 This repository showcases a collection of end-to-end exploratory data analysis projects. 
-Each project involves cleaning, analyzing, visualizing, and interpreting datasets to extract patterns, detect anomalies, test hypotheses, and generate actionable insights.
+Each project involves cleaning, analyzing, visualizing, and interpreting datasets to extract patterns, detect anomalies, test hypotheses, and generate insights.
 
 
 ## Project Goals
