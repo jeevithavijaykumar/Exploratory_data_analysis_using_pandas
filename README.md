@@ -25,7 +25,7 @@ The projects are designed to:
 - SciPy (for statistical analysis and hypothesis testing)
 
 
-Each notebook includes step-by-step analysis with explanations, visualizations, and a final summary of insights for each dataset.
+Each notebook includes step-by-step analysis with explanations, visualizations, and a summary of insights for each dataset.
 
 
 ----- 
